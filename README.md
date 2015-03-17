@@ -1,9 +1,8 @@
 # louanneboydwebsite
 LouAnne's website content ideas
-Website Map
 
-Topics: ASD, social skills, socail relationships, CSCW technology
-Here are the branches, I out items i ahvente created yet in brackets
+Home page: Bio, Research Topic projects, Publications
+Note to Mark: Here are the branches for research topics, I put brackets around the material I ahve not created yet
 
 Social Compass Curriculum
 -slide
@@ -22,7 +21,7 @@ Zody
 -poster
 -movie
 
-Wearable COgnitie Assistant
+Wearable Cognitie Assistant
 -[slide]
 -[movie]
 
